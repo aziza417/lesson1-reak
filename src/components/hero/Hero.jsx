@@ -28,7 +28,7 @@ function Hero() {
                     <h1>Welcome to </h1>
                         <h2>delizioso</h2>
                     <h3>Lorem ipsum dolor sit amet, consectetur <br />adipiscing elit. Facilisis ultricies at eleifend <br />proin. Congue nibh nulla malesuada <br />ultricies nec quam </h3>
-                    <button>See our menu</button>
+                    <button> <b>See our menu</b></button>
                     </div>
                 </div>
             </div>
