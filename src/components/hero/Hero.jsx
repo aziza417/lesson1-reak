@@ -1,6 +1,5 @@
 
 import HeroImg from '../../assets/Illustration.png'
-import WelcomeImg from '../../assets/Picture.png'
 
 import './hero.css'
 
@@ -21,17 +20,7 @@ function Hero() {
             <div className="hero-img">
                 <img src={HeroImg} alt="" />
             </div>
-            <div className='Welcom'>
-                <div className='Welcome'>
-                    <img className='pimg' src={WelcomeImg} width={700} alt="" />
-                    <div className='words'>
-                    <h1>Welcome to </h1>
-                        <h2>delizioso</h2>
-                    <h3>Lorem ipsum dolor sit amet, consectetur <br />adipiscing elit. Facilisis ultricies at eleifend <br />proin. Congue nibh nulla malesuada <br />ultricies nec quam </h3>
-                    <button> <b>See our menu</b></button>
-                    </div>
-                </div>
-            </div>
+            
         </div>
     )
 }

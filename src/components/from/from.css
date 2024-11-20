@@ -1,0 +1,45 @@
+
+
+.works {
+
+    margin-top: -500px;
+    color: white;
+    margin-left: 250px;
+    
+
+}
+.img3 {
+    img {
+        margin-top: 100px;
+    }
+    h1 {
+        font-size: 80px;
+    }
+    h2 {
+        font-size: 40px;
+        margin-left: 150px;
+        margin-top: 10px;
+    }
+    h3 {
+        color: #FFFFFF;
+        font-size: 20px;
+        margin-top: 20px;
+        margin-left: 150px;
+    }
+    h4 {
+        font-size: 20px;
+        margin-left: 330px;
+    }
+    button {
+        width: 230px;
+        height: 70px;
+        font-size: 30px;
+        border-radius: 50px;
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+    .btn1 {
+        color: white;
+        background: #FF8A00;
+    }
+}
